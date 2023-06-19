@@ -2,7 +2,8 @@
 |Datei|Dokumentation|Beschreibung|
 |---|---|---|
 |PerGamePerPlayer.csv|[link](https://github.com/CGessinger/BBL/wiki/PerGamePerPlayer-Documentation)|Box Daten pro Spiel pro Spieler von 2004 bis 2022/23|
-|SeasonTeams.csv|[link](https://github.com/CGessinger/BBL/wiki/SeasonTeams-Documentation)|Allgemeine Team Daten pro Saison. Zur Zeit bietet dieser Datensatz hauptsächlich einen Referenzpunkt, der die teamId zu Teams zuordnet
+|Teams.csv|[link](https://github.com/CGessinger/BBL/wiki/Teams-Documentation)|Alle BBL Mannschaften|
+|SeasonTeams.csv|[link](https://github.com/CGessinger/BBL/wiki/SeasonTeams-Documentation)|Allgemeine Team Daten pro Saison. Dieser Datensatz dient als Link zwischen Teams.csv und den Saisons, um eine Many-To-Many Relation herzustellen|
 
 **Dieser Datensatz in ein Community-Project und NICHT mit der offiziellen Easycredit Basketball Bundesliga verbunden**
 
