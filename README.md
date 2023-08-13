@@ -1,4 +1,6 @@
 # Basketball Bundesliga Datensatz
+Datensatz im Aufbau, Änderungen vorbehalten!
+
 |Datei|Dokumentation|Beschreibung|
 |---|---|---|
 |PerGamePerPlayer.csv|[link](https://github.com/CGessinger/BBL/wiki/PerGamePerPlayer-Documentation)|Box Daten pro Spiel pro Spieler von 2004 bis 2022/23|
